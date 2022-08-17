@@ -12,7 +12,6 @@ body {
     flex-direction: column;
     background-color: #333;
     font-family: Arial, Helvetica, sans-serif;
-
 }
 
 h1 {
@@ -32,7 +31,6 @@ h1 {
     font-size: 15px;
     border-radius: 5px;
     border: 0;
-
 }
 
 .busca button {
@@ -44,7 +42,6 @@ h1 {
     border-radius: 5px;
     margin-left: 10px;
     cursor: pointer;
-
 }
 
 .busca button:hover {
@@ -57,7 +54,7 @@ h1 {
     border: 1px dotted #fff;
     margin-top: 20px;
     border-radius: 15px;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgb(0, 0, 0, 0.2);
 }
 
 .titulo {
@@ -67,7 +64,6 @@ h1 {
     font-weight: bold;
     text-align: center;
     padding: 20px;
-
 }
 
 .info {
@@ -83,14 +79,13 @@ h1 {
 .info .vento {
     flex: 1;
     text-align: center;
-
 }
 
 .tempTitulo,
 .ventoTitulo {
     color: #777;
     font-size: 16px;
-    margin-bottom: 5px;
+    margin-bottom: 16px;
 }
 
 .tempInfo,
@@ -98,13 +93,11 @@ h1 {
     color: #fff;
     font-size: 30px;
     font-weight: bold;
-
 }
 
 .tempInfo sup {
     font-size: 15px;
     font-weight: normal;
-
 }
 
 .ventoInfo span {
@@ -121,7 +114,6 @@ h1 {
     margin-top: 20px;
     padding-left: 25px;
     padding-top: 25px;
-
 }
 
 .ventoPonto {
@@ -129,13 +121,11 @@ h1 {
     height: 1px;
     background-color: #fff;
     transform-origin: left;
-
 }
 
 .aviso {
     color: #fff;
     padding-top: 20px;
-
 }
 
 footer {
@@ -143,7 +133,6 @@ footer {
     color: #fff;
     font-size: 13px;
     text-align: center;
-
 }
 
 .climaTitulo {
@@ -151,5 +140,4 @@ footer {
     font-size: 16px;
     margin-bottom: 25px;
     margin-top: -25px;
-    
 }
